@@ -2,32 +2,16 @@
 
 ## Socials
 
-Linkedin: https://www.linkedin.com/in/yevheniia-simaka/
-
-Dribbble: https://www.linkedin.com/in/yevheniia-simaka/
-
-Devpost: https://devpost.com/I-am-jane
-
-Leetcode: https://leetcode.com/u/jane-does-coding/
+Discord: Dolphin_dev
 
 <br>
 
-## Languages & Technologies:
+## Languages:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,materialui,tailwind,bootstrap,sass,mongodb,nodejs,express,react,nextjs,prisma)](https://skillicons.dev)
 
-## Tools:
-[![My Skills](https://skillicons.dev/icons?i=git,github,postman,vite,vscode,idea,atom,bash,figma)](https://skillicons.dev)
+
 
 <br>
-
----
-### :fire: My Stats :
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=jane-does-coding&theme=dark&hide_border=true)](https://git.io/streak-stats) 
-
-
-![Yevheniia's GitHub stats](https://github-readme-stats.vercel.app/api?username=jane-does-coding&show_icons=true&theme=dark&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jane-does-coding&layout=compact&theme=dark&hide_border=true&hide=python)
 
 ---
