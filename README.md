@@ -1,3 +1,6 @@
+## About me
+
+
 ## Socials
 
 Discord: Dolphin_dev 
