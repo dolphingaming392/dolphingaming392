@@ -1,5 +1,3 @@
-<p align="left">label=Profile%20views&color=0e75b6&style=flat" alt="dolphingaming392" /> </p>
-
 ## Socials
 
 Discord: Dolphin_dev 
