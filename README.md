@@ -1,5 +1,6 @@
 ## About me
 
+Coming soon!
 
 ## Socials
 
